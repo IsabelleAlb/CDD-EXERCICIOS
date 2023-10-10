@@ -12,7 +12,7 @@ while repeat in "simSIM":
             print("Empate!!")
             ponto_jogador1 += 1
             ponto_jogador2 += 1
-            print(f"o placar está {ponto_jogador1} para o jogador 1\n{ponto_jogador2} para o jogador 2")
+            print(f"O placar está:\n{ponto_jogador1} para o jogador 1\n{ponto_jogador2} para o jogador 2")
 
 
         elif jogador1 != jogador2:
